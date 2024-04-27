@@ -5,6 +5,8 @@
 @import 'https://www.unpkg.com/layout-craft@1.0.1/dist/utilities.css'
   layer(base.utilities);
 
+
+  
 @layer base.app {
   *,
   ::before,
@@ -75,7 +77,8 @@
     .Card {
         background-repeat: no-repeat;
        background-size: cover;
-        background-image: url(Cat.jpg);
+        /*background-image: url(Cat.jpg);*/
+        background-color: rgb(255, 249, 249);
 
       scroll-snap-align: start;
       background-color: var(--surface-2);
@@ -151,8 +154,8 @@
       block-size: 44px;
       padding: 0.75rem;
       border-radius: var(--radius-round);
-      background-color: var(--surface-2);
-      color: var(--text-2);
+      background-color:	#38006b;
+      color: white;
       transition: 0.2s ease;
       /* Uncomment 'opacity: 0;' if you want the buttons to be visible only when you hover over the section */
       
@@ -229,7 +232,7 @@ body
   padding: 0;
   
   /* make it look decent enough */
-  background: #232323;
+  background: 	#f4f1f4;
   color: #cdcdcd;
   font-family: "Avenir Next", "Avenir", sans-serif;
   
@@ -393,6 +396,7 @@ a:hover
     width: 100%;
     max-width: 31.25rem;
     margin: 1rem auto;
+ 
   }
   
   .label {
