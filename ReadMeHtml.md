@@ -10,7 +10,6 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
 </head>
 
 <body>
@@ -75,7 +74,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Housing" aria-expanded="false" aria-controls="flush-collapseOne">
-                   <a href="#">Housing</a> 
+                   <a href="#">Housing</a>
                   </button>
                 </h2>
                 <div id="Housing" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -95,7 +94,7 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Services" aria-expanded="false" aria-controls="flush-collapseOne">
-                  <a href="#"> Services</a> 
+                  <a href="#"> Services</a>
                   </button>
                 </h2>
                 <div id="Services" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -165,8 +164,9 @@
           <li style="font-size: 20px;">FAQ</li>
       </ul>
 
-    
+
     </div>
+
   </nav>
         <div class="col-lg-12" style="height: 40vh; position: relative; background-color: 	#9c4dcc; color: white; border: 1px solid red;"> 
             
@@ -251,21 +251,16 @@
                         </ul>
                       </div>
 
-                      
-
-                     
                       </div>
                     </div>
                   </div>
             </div>
 
-        </div> 
+        </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 </body>
-
-
 
 <body class="block-center-center">
     
@@ -673,12 +668,12 @@
     
     
   </body>
-  
+
 
 <body>
 
-    <div class="container-fluid"> 
-        
+    <div class="container-fluid">
+
         <div class="col-lg-12" style="height: 10vh;"></div>
         <div class="row">
 
@@ -689,19 +684,16 @@
             <div class="col-lg-1"  style="height: 50vh;"></div>
         </div>
 
-    
-  
+
+
 
 
         </div>
         <div class="col-lg-12" style="height: 10vh;"></div>
 
 
-    
+
     </div>
-   
-
-
 
 </body>
 <body class="block-center-center">
@@ -1207,12 +1199,7 @@
     
     
   </body>
- 
 
-
-
-
-  
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
